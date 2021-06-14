@@ -1,6 +1,6 @@
 ## From unpopular to shity opinion
 
-It's really common to find shity opinions disguised as "unpopular", that's why I brought you this extension. Let's unmask this opinions!
+It's really common to find shity opinions disguised as "unpopular", that's why I brought you this extension. Let's unmask them all!
 
 Here the instructions to do it:
 
