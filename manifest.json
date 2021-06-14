@@ -1,0 +1,22 @@
+{
+  "name": "From Unpopular to Shity",
+  "description": "Turns an unpopular opinion into a shity opinion :D",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/poopinion16.png",
+      "32": "/images/poopinion32.png",
+      "48": "/images/poopinion48.png",
+      "128": "/images/poopinion128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/poopinion16.png",
+    "32": "/images/poopinion32.png",
+    "48": "/images/poopinion48.png",
+    "128": "/images/poopinion128.png"
+  }
+}
